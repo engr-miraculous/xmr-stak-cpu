@@ -123,7 +123,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "52.224.238.197:3333",
+"pool_address" : "52.226.135.63:3333",
 "wallet_address" : "43HRzAtg9qbK7FGYvkJcBaXzc6NoBBooFb9WLU3HDatNUkm66vEpQV4MCxj1zT2dWgiAcYdsEefsjiFxYaYGEoxNGLu186p",
 "pool_password" : "yh2000:miraclousyh2000@yahoo.com",
 
